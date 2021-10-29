@@ -11,7 +11,7 @@ function Product({ n, title, oldPrice, price }) {
 
   return (
     <div className="item-pro">
-     
+      <div>{n}</div>
       <img src="image/autocad.jpg" className="aut-img" />
       <div className="properties">
         <div className="ti-pro">{title}</div>

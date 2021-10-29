@@ -1,0 +1,17 @@
+#top-header{
+    height: 120px;
+   background: cornflowerblue;
+    display: flex;
+    
+}
+
+
+#bottom-header{
+    height: 150px;
+    background: blueviolet;
+    display: flex;
+}
+#logo{
+    width:100px ;
+    height:100px ;
+}

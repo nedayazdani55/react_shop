@@ -1,0 +1,30 @@
+.box1-pro{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.item-pro{
+    width: 210px;
+    height: 285px;
+    background: #008b8b30;
+    box-shadow: 2px 2px 10px #3ca7a7;
+    padding: 15px;
+    margin-bottom: 15px;
+
+}
+
+.old-price{
+    text-decoration: line-through;
+}
+.number-prouduct{
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    background: white;
+    border: black solid 1px;
+}
+.yellow{
+    border:1px solid yellow;
+    background: yellow;
+}

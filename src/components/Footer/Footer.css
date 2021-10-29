@@ -1,0 +1,23 @@
+footer {
+  display: flex;
+  height: 350px;
+  background: rgb(229, 255, 0);
+}
+
+.rightFooter {
+  height: 300px;
+  width: 50%;
+  background: deeppink;
+}
+
+.leftFooter {
+  height: 300px;
+  width: 50%;
+  background: rgb(155, 104, 238);
+}
+
+.bottomFooter {
+  height:50px;
+  background: mintcream;
+  
+}
